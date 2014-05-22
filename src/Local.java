@@ -1,6 +1,6 @@
 public class Local {
 	public static void main(String[] args) {
-
+// this is a comment - gitHub
 		String[] world = { "green", "red", "red", "green", "green", "red" };
 		String measurements[] = { "red", "red" };
 		double[] p = { 0.2, 0.2, 0.2, 0.2, 0.2,0.2 };
